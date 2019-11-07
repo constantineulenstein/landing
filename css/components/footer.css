@@ -1,0 +1,29 @@
+.footer {
+  background-color: #3C4858;
+  text-align: center;
+  padding: 30px;
+  margin-top: 60px;
+}
+
+.footer ul li {
+  display: inline-block;
+}
+
+.social-media-icons {
+  font-size: 40px;
+  margin: 0px 5px;
+  color: #ADB5BD;
+}
+
+.social-media-icons:hover {
+  color: #FAFDF6;
+}
+
+.footer ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.footer p {
+  color: #6B6C6C;
+}
